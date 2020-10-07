@@ -165,7 +165,7 @@ print(fruit)
 
 **输出结果：** *['APPLE', 'PEAR', 'PINEAPPLE', 'ORANGE', 'BANANA']*
 
-Tips5、	enumerate函数
+### Tips5、	enumerate函数
 
 还是那个fruit列表，我们想要输出所有元素必须要用到for循环，但是如果要输出元素下标及元素可没这么容易了，还好pyt提供了一个函数：enumerate()，例：
 
@@ -182,7 +182,7 @@ for i,x in enumerate(fruit):
 *3 ORANGE*
 *4 BANANA*
 
-Tips6、	反向，顺序遍历
+### Tips6、	反向，顺序遍历
 
 将fruit列表元素从后往前依次输出，我们只需使用reversed(),如果按照a~z的顺序输出呢，pyt还是提供了一个函数：sorted()，例：
 
@@ -291,7 +291,7 @@ print(first_name,last_name)
 
 **输出结果：** *Johnserf Seed* 
 
-### #Tips10、	with文件读取操作
+### Tips10、	with文件读取操作
 
 pyt脚本很多情况下都需要读取、写入操作，我们都会用open()函数去打开这个对象，例：
 
