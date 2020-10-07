@@ -324,6 +324,10 @@ print(s)
 
 
 
+**项目地址[10-tips-for-python](https://github.com/Johnserf-Seed/10-tips-for-python)**
+
+
+
 #### 以上就是一些在日常编程中提高代码效率，可读性，简洁性的10个技巧
 
 ![嘻嘻](https://tva4.sinaimg.cn/large/006908GAly1gjgsqp2yk7g306o06ows4.gif)
