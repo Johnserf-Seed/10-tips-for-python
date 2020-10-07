@@ -1,10 +1,6 @@
----
-title: Python编程中的10个小技巧
-date: 2020-10-07 14:25:55
-tags: python
-categories: 技巧
----
 # Python编程中的10个小技巧
+
+![Python version](https://img.shields.io/badge/python-v3.7.3-blue)
 
 ### Tips1、	交换变量
 
