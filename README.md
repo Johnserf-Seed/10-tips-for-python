@@ -231,7 +231,7 @@ for k in b:
 print(c)
 ```
 
-我们还可以用另一种解包(packing)的思维,例：
+我们还可以用另一种解包(unpacking)的思维,例：
 
 ```python
 c = {**a, **b}  #**代表解包
